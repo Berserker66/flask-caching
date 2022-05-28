@@ -11,3 +11,4 @@ coverage
 flake8
 twine
 wheel
+cachelib
